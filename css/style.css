@@ -104,13 +104,13 @@ header nav ul li a {
     padding: 2%;
     border-color:whitesmoke;
     border: solid;
-    background-image: url(../images/Screen\ Shot\ 2020-12-10\ at\ 4.14.58\ PM.png);
+    background-image: url(../images/cinequiz.png);
     background-size: cover;
     color: whitesmoke;
     margin-top: 10%;
 }
 .work-run-buddy {
-    grid-column: 4/4;
+    grid-column: 3/4;
     grid-row: 4/4;
     width: 100%;
     height:100%;
@@ -130,7 +130,7 @@ header nav ul li a {
     padding: 1rem;
     border-color: whitesmoke;
     border: solid;
-    background-image: url(../images/cinequiz.png);
+    background-image: url(../images/Now-Playing.png);
     background-size: cover;
     margin-top: 10%;
     color: whitesmoke;
