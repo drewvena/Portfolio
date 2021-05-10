@@ -9,7 +9,7 @@ function About() {
             <img className="drew" src={headshot} alt="headshot" width="25%" />
             <div className="about-text">
                 <p>
-                My name is Drew Vena, I am a full stack web developer who learned the tricks of the trade through a bootcamp by The University of Texas.  
+                My name is Drew Vena, I am a full stack web developer who learned the tricks of the trade through a bootcamp by The University of Texas. I work well with others and thrive in problem solving / chaotic situations.  
                 </p>
             </div>
         </section>

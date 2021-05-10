@@ -20,6 +20,11 @@ body {
   color: whitesmoke;
  
 }
+#about{
+  padding: 3%;
+  border: 2px solid #132e32ff;
+  border-radius: 3%;
+}
 .about-text{
   display: flex;
   justify-content: center;
@@ -83,4 +88,43 @@ button, input[type="submit"], input[type="reset"] {
   padding: 1%;
   text-decoration: underline;
   color:whitesmoke;
+}
+.resume{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 2%;
+}
+.ex{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  font-size: larger;
+}
+
+.work{
+  border: 2px solid whitesmoke;
+  padding: 2%;
+  border-radius: 3%;
+}
+.skills{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  font-size: larger;
+}
+.tech-skill{
+  border: 2px solid whitesmoke;
+  padding: 2%;
+  border-radius: 3%;
+}
+.res{
+  color: #132e32ff;
+}
+#footer{
+ display: flex;
+ justify-content: center;
+}
+.footer a {
+  padding: 3%;
+  font-size: x-large;
+  color: #132e32ff;
 }
