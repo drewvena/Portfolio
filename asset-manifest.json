@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.31ef434f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.3b99b1d4.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.3b99b1d4.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.b4068460.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.b4068460.js.map",
-    "static/js/2.6e00a6f5.chunk.js": "/Portfolio/static/js/2.6e00a6f5.chunk.js",
-    "static/js/2.6e00a6f5.chunk.js.map": "/Portfolio/static/js/2.6e00a6f5.chunk.js.map",
-    "index.html": "/Portfolio/index.html",
-    "static/css/main.31ef434f.chunk.css.map": "/Portfolio/static/css/main.31ef434f.chunk.css.map",
-    "static/js/2.6e00a6f5.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.6e00a6f5.chunk.js.LICENSE.txt",
-    "static/media/headshot.883c3565.jpg": "/Portfolio/static/media/headshot.883c3565.jpg",
-    "static/media/now-playing.a1f03526.png": "/Portfolio/static/media/now-playing.a1f03526.png"
+    "main.css": "/portfolio/static/css/main.7a7cc324.chunk.css",
+    "main.js": "/portfolio/static/js/main.c82a513d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c82a513d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.76232b81.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.76232b81.js.map",
+    "static/js/2.b4211814.chunk.js": "/portfolio/static/js/2.b4211814.chunk.js",
+    "static/js/2.b4211814.chunk.js.map": "/portfolio/static/js/2.b4211814.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.7a7cc324.chunk.css.map": "/portfolio/static/css/main.7a7cc324.chunk.css.map",
+    "static/js/2.b4211814.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b4211814.chunk.js.LICENSE.txt",
+    "static/media/Screenshot.ce392cda.png": "/portfolio/static/media/Screenshot.ce392cda.png",
+    "static/media/budget.aedfd45f.png": "/portfolio/static/media/budget.aedfd45f.png",
+    "static/media/cinequiz.fdb577f2.png": "/portfolio/static/media/cinequiz.fdb577f2.png",
+    "static/media/headshot.883c3565.jpg": "/portfolio/static/media/headshot.883c3565.jpg",
+    "static/media/nolo.ba0486ec.png": "/portfolio/static/media/nolo.ba0486ec.png",
+    "static/media/note-taker.ad6ac1c7.png": "/portfolio/static/media/note-taker.ad6ac1c7.png",
+    "static/media/now-playing.a1f03526.png": "/portfolio/static/media/now-playing.a1f03526.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4068460.js",
-    "static/js/2.6e00a6f5.chunk.js",
-    "static/css/main.31ef434f.chunk.css",
-    "static/js/main.3b99b1d4.chunk.js"
+    "static/js/runtime-main.76232b81.js",
+    "static/js/2.b4211814.chunk.js",
+    "static/css/main.7a7cc324.chunk.css",
+    "static/js/main.c82a513d.chunk.js"
   ]
 }
