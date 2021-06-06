@@ -5,8 +5,17 @@ import Budget from '../../assets/images/budget.png';
 import Nolo from '../../assets/images/nolo.png';
 import Notes from '../../assets/images/note-taker.png';
 import quiz from '../../assets/images/Screenshot.png';
+import Flambot from '../../assets/images/flambot.png';
 function Portfolio() {
     const projects = [
+        {
+            name: 'Flambot Corp',
+            img: Flambot,
+            description: 'This is a REACT Global State application project for our full stack JavaScrip development boot-camp at the University of Texas. This application is a T-shirt store where you would be able to shop for t-shirts by filtered selection, signup/Login, and checkout using Stripe online payment.',
+            tech: 'React, GraphQL, Semantic UI, Stripe, Mongoose, MongoDB',
+            repository: 'https://github.com/drewvena/flambot-corp',
+            deployed: 'https://flambot-corp.herokuapp.com/'
+        },
         {
             name: 'Now Playing',
             img: nowPlaying,
